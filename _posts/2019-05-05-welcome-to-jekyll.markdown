@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test message"
+title:  "Welcome to easyoutdoor"
 date:   2019-05-05 19:50:58 +0200
 categories: jekyll update
 ---
