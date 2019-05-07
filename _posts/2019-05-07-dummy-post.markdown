@@ -12,6 +12,8 @@ _Who needs code snippets?_ *blah*
 
 This is [google][google-address]
 
+Tulips in the Netherlands:
+
 <a href="//easyoutdoor.github.io/assets/images/IMG_1389.JPG" data-lightbox="dummy-image" data-title="Check out this nice photo">
   <img src="/assets/images/IMG_1389.JPG" title="Nice photo!">
 </a>
