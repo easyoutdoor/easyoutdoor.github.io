@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to Easy Outdoor"
 date:   2019-05-09 19:50:58 +0200
-comments: true
 categories:
 ---
 Welcome to our blog Easy Outdoor.
