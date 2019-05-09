@@ -41,6 +41,7 @@ textarea {
   transition: border-color;
   width: 100%;
 
+
   &:hover {
     border-color: darken($base-border-color, 10%);
   }
