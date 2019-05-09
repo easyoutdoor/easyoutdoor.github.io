@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to Easy Outdoor"
+date:   2019-05-09 19:50:58 +0200
+categories:
 ---
+Welcome to our blog Easy Outdoor.
 
 This blog is made by me and my boyfriend. We are two hiking enthusiasts, we both like the nature, mountains, forests... everything opposite to the big cities and the crowds. But when you are living, working or studying in the cities, it’s sort of difficult to find lots of suitable time to prepare the real interesting hikes. You need at least 8 days to do Tour the Mont Blanc, two weeks to complete the famous GR20. No mention the Saint Jacques de Compostelle hikes, they take even month... (It’s true that I still have my summer vacation, ermm.. but I cannot wait to hike until summer...)
 
@@ -15,5 +17,3 @@ We will share with you our itineraries, our photos and our suggestions to help y
 We will first try to add online little by little the hikes that we have done in the past and then update our blog as soon as when our next hike has been completed. (hmm what’s the next destination...) 
 
 Have fun when you read it and if you find it’s useful, don’t forget to share our blog Easy Outdoor with your friends!
-
-
