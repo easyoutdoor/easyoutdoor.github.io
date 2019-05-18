@@ -41,6 +41,63 @@ To be honest I did underestimate the difficulty of biking and overestimate my ab
 
 I might forget my pain at some point. We stopped at this place for a brief lunch. 
 
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/lunchtulipes4.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/lunchtulipes4.png" title="nice photo">
+</a>
 
+Then we continued to our helicopter!
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/helicopter.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/helicopter.png" title="nice photo">
+</a>
+
+Yes, this is our accommodation.  We slept in this UK made helicopter during the night and the following day we arrived at London. That’s kidding. This place is a camping ground called  Camping Land from Sea. A crazy place with accommodations in the bus, in tree house, in tram... and of course in this helicopter.  Usually people booked this and arrived by car but the camping ground lady told us that we are the first ones that arrived by bike.
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/cat_in_helicopter.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/cat_in_helicopter.png" title="nice photo">
+</a>
+
+Our guest: the camping cat. A very friendly cat. Camping cat is actually it’s name. It refused to leave the helicopter and stuck on that sun warmed chair. It’s really comfortable, isn’t it.
+
+After using any effort to throw the camping cat out of the helicopter, we eventually locked our helicopter and were able to get start to go to our last destination of the day - the  Afsluitdijk dam. 
+
+Month ago when I was searching for the possible destinations in the Netherlands,  I noticed this photo: 
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam_satelite.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/dam_satelite.png" title="nice photo">
+</a>
+
+It’s a satellite image of Afsluitdijk dam. It’s 32kms long, located in the northern Netherlands, a  magnificent human construction to separate the southern sea from the northern sea, to conserve light water and to create polder land. 
+
+I was fascinated by this astonishing colorful landscape and decided to get there anyhow. We arrived at the dam by bike around 5pm. 
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam1.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/dam1.png" title="nice photo">
+</a>
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam2.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/dam2.png" title="nice photo">
+</a>
+
+Honestly, comparing to the feeling when I saw the satellite image, I’m quite disappointed after we actually reached this dam. Mostly because that we couldn’t get on the dam because it had it’s building works on and all the access were blocked. And of course also because that after 4 hours biking against the wind, I was exhausted. I once planned to have a bike tour from the camping ground, through the 32 km dam and bike back to the camping ground. This appears to me just a stupid idea ever after I arrived the dam with my destroyed body. 
+
+After a brief stop, we decided to bike back to our helicopter. 
+
+The way from the camping ground to the dam: 
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes4.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/tulipes4.png" title="nice photo">
+</a>
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/birds1.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/birds1.png" title="nice photo">
+</a>
+
+The way back from the dam back to our camping ground: 
+
+<a href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/sheep1.png" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img src="/assets/images/post_2_netherland_biking/sheep1.png" title="nice photo">
+</a>
+ 
 [google-address]: https://www.google.com
 
