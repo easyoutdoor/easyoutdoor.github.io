@@ -269,7 +269,38 @@ pre code.hljs {
 		.post-content {
 			padding: 1em 0;
 		}
-		.tags {
+           	.image-row {
+		  text-align: center; 
+		}
+		@media (min-width: 640px) {
+		  .image-row {
+		    text-align: left; } 
+		}
+		.image-link {
+		  display: inline-block;
+		  padding: 2px;
+		  margin: 0rem 0.5rem 0.5rem 1.5rem;
+		  background-color: $base-background-color; /*var(--bg-color);*/
+		  line-height: 0;
+		  border-radius: 8px;  /*var(--border-radius-large);*/
+		  transition: background-color 0.5s ease-out; 
+		}
+		.image-link:hover {
+		    background-color: $action-color; /*var(--link-color);*/
+		    transition: none; 
+		}
+		.small-image {
+		  width: 7rem;
+		  border-radius: 4px; /*var(--border-radius); */
+		}
+		.medium-image {
+		  width: 14rem;
+		  border-radius: 4px; /*var(--border-radius); */
+		}
+		.large-image {
+		  width: 28rem;
+		  border-radius: 4px; /*var(--border-radius); */
+		}		.tags {
 			font-size: 0.9em;
 		}
 		.rss {
