@@ -5,44 +5,44 @@ date:   2019-05-18 18:24:00 +0200
 categories: 
 cover: /assets/images/IMG_1389.JPG
 ---
-Day 1:
-     <br> 1. taking train Intercity 3028 10:08 am – 11:36 am from Utrecht Central Station to Schagen
-     <br> 2. renting two OV public bikes at Schagen station
-     <br> 3. biking 25 kilometers to the helicopter camping ground
-       address: Oom Keesweg 12A, 1771 ME Wieringerwerf, Netherlands
+## Day 1
 
-<a href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map1.png" data-lightbox="dummy-image" data-title="Check out this map">
-  <img src="/assets/images/post_1_netherland_biking/map1.png" title="Map">
+1. Intercity train  10:08 – 11:36 from Utrecht to Schagen
+
+2. Renting of two OV public bikes at Schagen station
+
+3. Bike trip of 25 kilometers to the camping ground<br>
+Address: Oom Keesweg 12A, 1771 ME Wieringerwerf<br>
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map1.png" data-lightbox="maps" data-title="Biking Schagen-Wieringerwerf">
+  <img class="medium-image" src="/assets/images/post_1_netherland_biking/map1.png" title="Biking day 1">
 </a>
 
-<br> 4. arriving at Camping Land from Sea, checking in and arranging stuff
-<br> 5. biking tour to Afsluitdijk dam
-
-<a href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map2.png" data-lightbox="dummy-image" data-title="Check out this map">
-  <img src="/assets/images/post_1_netherland_biking/map2.png" title="Map">
+4. Arrival at Camping Land from Sea, checking in and arranging stuff
+5. Bike tour to Afsluitdijk dam<br>
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map2.png" data-lightbox="maps" data-title="Biking Afsluitdijk loop">
+  <img class="medium-image" src="/assets/images/post_1_netherland_biking/map2.png" title="Bikign day 1">
 </a>
 
-<br> 6. back to the camping and dinner at the pizza Yam Yam
-   Address: Sternstraat 72, 1771 AR Wieringerwerf, Netherlands
+6. Back to the camping and dinner at the pizza Yam Yam<br>
+Address: Sternstraat 72, 1771 AR Wieringerwerf
 
-Day 2:
-<br> 1. biking 10 am – 11:40 to Schagen station to return bikes
+## Day 2
 
-<a href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map3.png" data-lightbox="dummy-image" data-title="Check out this map">
-  <img src="/assets/images/post_1_netherland_biking/map3.png" title="Map">
+1. Biking 10:00 – 11:40 to Schagen station to return bikes<br>
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map3.png" data-lightbox="maps" data-title="Biking Wieringerwerf-Schagen">
+  <img class="medium-image" src="/assets/images/post_1_netherland_biking/map3.png" title="Biking day 2">
 </a>
 
-<br> 2. buying food at Schagen supermarket ALDI
-<br> 3. taking train Intercity 12:06 –12:27 from Schagen station to Den Helder
-<br> 4. taking the ferry from Den Helder to Texel
-<br> 5. hiking on the island of Texel
-
-<a href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map4.png" data-lightbox="dummy-image" data-title="Check out this map">
-  <img src="/assets/images/post_1_netherland_biking/map4.png" title="Map">
+2. Buying food at supermarket ALDI in Schagen 
+3. Intercity train 12:06 – 12:27 from Schagen to Den Helder
+4. Ferry from Den Helder to Texel
+5. Hiking on Texel<br>
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map4.png" data-lightbox="maps" data-title="Hiking in Texel">
+  <img class="medium-image" src="/assets/images/post_1_netherland_biking/map4.png" title="Hiking day 2">
 </a>
 
-<br> 6. taking the ferry back to Den Helder and then taking train back to Utrecht
+6. Ferry back to Den Helder 
+7. Intercity train back 20:23 -- 22:29 from Den Helder to Utrecht
 
 
-[google-address]: https://www.google.com
 

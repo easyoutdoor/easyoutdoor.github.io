@@ -15,8 +15,10 @@ This is [google][google-address]
 Tulips in the Netherlands:
 
 
-<a href="//easyoutdoor.github.io/assets/images/IMG_1389.JPG" data-lightbox="dummy-image" data-title="Check out this nice photo">
-  <img src="/assets/images/IMG_1389.JPG" title="Nice photo!">
+<p> Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
+</p><a align="right" href="//easyoutdoor.github.io/assets/images/IMG_1389.JPG" data-lightbox="dummy-image" data-title="Check out this nice photo">
+  <img width="40px" align="right" src="/assets/images/IMG_1389.JPG" title="Nice photo!">
 </a>
 
 <a href="//easyoutdoor.github.io/assets/images/IMG_1389.JPG" class="image-link" data-lightbox="dummy-image" data-title="Check out this nice photo">
@@ -29,6 +31,8 @@ Tulips in the Netherlands:
 <a href="//easyoutdoor.github.io/assets/images/IMG_1389.JPG" class="image-link" data-lightbox="dummy-image" data-title="Check out this nice photo">
   <img class="large-image" src="/assets/images/IMG_1389.JPG" title="Nice photo!">
 </a>
+
+
 
 Two photos:
 <div class="image-row">
