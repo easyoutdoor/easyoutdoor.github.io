@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Tulip fields, Afsluitdijk dam, Texel island and helicopter hotel<br>2 days biking and a small hike in the northern Netherlands"
+title:  "Netherlands Easter biking: itinerary"
 date:   2019-05-18 18:24:00 +0200
 categories: 
 cover: /assets/images/IMG_1389.JPG
 ---
-## Day 1
+<h1 style="color:black;text-align:center">Tulip fields, Afsluitdijk dam, Texel island and helicopter hotel</h1>
+<h3 style="color:black;text-align:center">2 days biking and a small hike in the northern Netherlands</h3>
+
+#### Day 1
 
 1. Intercity train  10:08 – 11:36 from Utrecht to Schagen
 
@@ -26,7 +29,7 @@ Address: Oom Keesweg 12A, 1771 ME Wieringerwerf<br>
 6. Back to the camping and dinner at the pizza Yam Yam<br>
 Address: Sternstraat 72, 1771 AR Wieringerwerf
 
-## Day 2
+#### Day 2
 
 1. Biking 10:00 – 11:40 to Schagen station to return bikes<br>
 <a class="image-link" href="//easyoutdoor.github.io/assets/images/post_1_netherland_biking/map3.png" data-lightbox="maps" data-title="Biking Wieringerwerf-Schagen">
