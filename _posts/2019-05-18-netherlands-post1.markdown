@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Netherlands Easter biking: itinerary"
+title:  "Easter 2019 in the Netherlands: itinerary"
 date:   2019-05-18 18:24:00 +0200
 categories: 
 cover: /assets/images/IMG_1389.JPG
 ---
-<h1 style="color:black;text-align:center">Tulip fields, Afsluitdijk dam, Texel island and helicopter hotel</h1>
-<h3 style="color:black;text-align:center">2 days biking and a small hike in the northern Netherlands</h3>
+<h1 style="color:black;text-align:center">Tulip fields, Afsluitdijk dam, Texel island and helicopter</h1>
+<h3 style="color:black;text-align:center">Two days of biking and a small hike in North Holland</h3>
 
 #### Day 1
 

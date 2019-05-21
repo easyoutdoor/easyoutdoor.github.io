@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Netherlands Easter biking: in detail"
+title:  "Easter 2019 in the Netherlands: in detail"
 date:   2019-05-18 18:24:00 +0200
 categories: 
 cover: /assets/images/IMG_1389.JPG
 ---
-<h1 style="color:black;text-align:center">Tulip fields, Afsluitdijk dam, Texel island and helicopter hotel</h1>
-<h3 style="color:black;text-align:center">2 days biking and a small hike in the northern Netherlands</h3>
+<h1 style="color:black;text-align:center">Tulip fields, Afsluitdijk dam, Texel island and helicopter</h1>
+<h3 style="color:black;text-align:center">Two days of biking and a small hike in North Holland</h3>
 <h4 style="text-align:center">(in detail)</h4>
 
 Easter was coming. National holidays always means hikes to us. Mountains is always a nice option, but it was spring and there was lots of snow in the mountains. We were considering of flying to the South of Spain but the weather forecast was showing a high possibility of rain in this region. So we abandoned our first choice -- southern Spain and chose to hike in the Netherlands which had potentially good weather.
@@ -56,7 +56,7 @@ Then we continued to our helicopter!
 
 Yes, this was our accommodation. We slept in this British helicopter during the night and the following day we arrived at London (kidding). This was on the camping ground called ‘Camping Land from Sea’. A crazy place where you could sleep in the bus, in a tree house, in a tram... and of course in this helicopter. We were told that usually people who booked accommodation arrived by car and that we were the first that arrived by bike.
 
-When we were searching for accommodation for this trip and comparing the prices of different hotels, we found this camping ground by accident. To our surprise, the price of one night in this helicopter is about 100 euros for 2 people, lower than the average price of one night’s hotel in this region. There is everything you needed to spend the night in the helicopter : blankets, pillows, sheet, radiator and you also have a table, two chairs and some kitchen kits at the entrance of the helicopter. The only inconvenience is that the public restroom and the bathroom are a little bit far from it.
+When we were searching for accommodation for this trip and comparing the prices of different hotels, we found this camping ground by accident. To our surprise, the price of one night in this helicopter was about 100 euros for 2 people, lower than the average price of one night’s hotel in this region. There was everything you needed to spend the night in the helicopter : blankets, pillows, sheet, radiator and you also had a table, two chairs and some kitchen kits at the entrance to the helicopter. The only inconvenience was that the public restroom and the bathroom were a little bit far from it.
 
 <a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/cat_in_helicopter.png" data-lightbox="day-1-image" data-title="guest">
   <img class="medium-image" src="/assets/images/post_2_netherland_biking/cat_in_helicopter.png" title="guest">
@@ -85,7 +85,7 @@ I was fascinated by this astonishing colorful landscape and decided to go there.
 
 Honestly, comparing to the feeling when I saw the satellite image, I’m quite disappointed after we actually reached this dam. Mostly because that we couldn’t get on the dam because due to construction works the access was blocked. And of course also because that after 4 hours biking against the wind, I was exhausted. Before the trip I was planning to do a bike tour from the camping ground over the 32 km long dam and back to the camping ground. This appeared to me like the stupidest idea ever after I arrived at the dam with my destroyed body. 
 
-The western end of the dam has a a big fishing port. There were many fishing boats and lots of industriel fishing equipment exposed. It was certainly not a busy moment when we arrived – on the late Sunday afternoon right before the Easter Monday. Most of the tourists have left already and a small restaurant for fish and chips was preparing to stop the service. Bad luck for us as we were hungry, and tired. It would be better if we could eat in the restaurant and have a rest. 
+The western end of the dam had a big fishing harbor. There were many fishing boats and lots of industrial fishing equipment. It was certainly not a busy moment when we arrived -- late in the afternoon on Easter Sunday. Most of the tourists had left already and a small restaurant for fish and chips was preparing to stop the service. Bad luck for us as we were hungry, and tired. It would have been better if we could have eaten in the restaurant and had a rest. 
 
 After a brief stop and some snacks, we decided to bike back to our helicopter. 
 
@@ -104,13 +104,13 @@ Pictures on the way back from the dam back to the camping ground:
   <img class="medium-image" src="/assets/images/post_2_netherland_biking/sheep1.png" title="sheep">
 </a>
 
-The way back we were biking with a tailwind and I was grateful. 
+The way back the following day we were biking with a tailwind for which I was grateful. 
 
 <a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/pizza.png" data-lightbox="day-1-image" data-title="pizza">
   <img class="medium-image" src="/assets/images/post_2_netherland_biking/pizza.png" title="pizza">
 </a>
 
-The camping ground made some sandwiches, but when we were back, it was sort of late and we were told that the sandwiches had been sold out. We ended up finishing the dinner at a local restaurant about 10 minutes on foot from the camping ground. Usually I have a bad appetite when I am physically tired and my friend is an opposite: he eats like a horse after hiking. Anyway, the pizzas were ok and large and we saved the rest of them as the following morning’s breakfast.
+We were told that we could buy sandwiches at the camping ground, but when we were back, it was sort of late and the sandwiches were no longer available. We ended up having a dinner at a local restaurant about 10 minutes on foot from the camping ground. Usually I have a bad appetite when I am tired and my friend is an opposite: he eats like a horse after hiking. Anyway, the pizzas were ok and large and we saved the rest of them for the breakfast on the next day.
 
 [tulip-address]: https://tulipsinholland.com/flower-areas/
 
