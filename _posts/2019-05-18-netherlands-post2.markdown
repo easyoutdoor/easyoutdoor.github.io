@@ -23,9 +23,12 @@ We preferred to see flowers, avoiding the crowds. My boyfriend found this [map o
 
 As the flower zone is quite large, we decided to try to do a biking trip for the first time together. The Netherlands is also a country of bikes. The public transport company NS provides bike renting service for the locals for a very low price. If you have an address in the Netherlands, you can order a transport card, and with this card, you can rent up to two bikes at the same time. 
 
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/OV bike station.png" data-lightbox="day-1-image" data-title="OV bike">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/OV bike station.png" title="OV bike">
+</a>
+
 <a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/2_ovbike.png" data-lightbox="day-1-image" data-title="OV bike">
   <img class="large-image" src="/assets/images/post_2_netherland_biking/2_ovbike.png" title="OV bike">
-</a>
 
 To be honest I did underestimate the difficulty of biking and I did overestimate my ability to bike. The lesson that I learned the following day was: if you haven’t been biking for years, don’t plan an ambitious biking journey unless you want yourself injured and completely destroyed... As you may see from the photo above, these bikes are not equipped with hand breaks and they are heavy... I fell with my bike 30 minutes after biking because I went off track... Luckily I didn’t fall into the canal and only got bruises in my arms and my knees. I continued biking of course. 
 
@@ -111,6 +114,17 @@ The way back the following day we were biking with a tailwind for which I was gr
 </a>
 
 We were told that we could buy sandwiches at the camping ground, but when we were back, it was sort of late and the sandwiches were no longer available. We ended up having a dinner at a local restaurant about 10 minutes on foot from the camping ground. Usually I have a bad appetite when I am tired and my friend is an opposite: he eats like a horse after hiking. Anyway, the pizzas were ok and large and we saved the rest of them for the breakfast on the next day.
+
+It’s a bit narrow inside of the helicopter but there is enough space for a double mattress for 2 people. I was exhausted and fell asleep immediately. My legs were super sore cause of biking, and my muscles were protesting even more after having rested a whole night. That I had never experienced before because that based on my hiking experience in the past, the muscle pain usually disappeared after one night’s rest. 
+
+As the weather forecast predicted, the second day was another sunny day. We took the leftover pizza and hot tea as breakfast, then after a quick packing, we started to head back to Schagen train station to return our bikes. If we want to pay only one day’s rental price, they need to be returned before noon. Fyi, the rental price of OV bikes is quite low within 24 hours. In case of a rental period over 24 hours (less than 2 days), they charge you more than twice the daily price. 
+
+We took a different path and thanks to the tailwind, it took us less than 2 hours biking and we made to the train station before noon. Here is a nice tulip field on our way back:
+
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes5.png" data-lightbox="day-2-image" data-title="tulipes">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes5.png" title="tulipes">
+</a>
+
 
 [tulip-address]: https://tulipsinholland.com/flower-areas/
 
