@@ -17,52 +17,52 @@ We decided to see the national flowers of the Netherlands -- the  tulips. Perhap
 
 We preferred to see flowers, avoiding the crowds. My boyfriend found this [map of distribution of tulips][tulip-address] fields on the web. Excellent; we could do a flower trip in those dark zones, similar to the lavender hike we did in 2018 in the south of France.
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/1_tulipes field distribution map.png" data-lightbox="pretty-image" data-title="Check out this image">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/1_tulipes field distribution map.png" title="Tulip zones">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/1_tulipes field distribution map.jpg" data-lightbox="pretty-image" data-title="Check out this image">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/1_tulipes field distribution map.jpg" title="Tulip zones">
 </a>
 
 As the flower zone is quite large, we decided to try to do a biking trip for the first time together. The Netherlands is also a country of bikes. The public transport company NS provides bike renting service for the locals for a very low price. If you have an address in the Netherlands, you can order a transport card, and with this card, you can rent up to two bikes at the same time. 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/OV bike station.png" data-lightbox="day-1-image" data-title="OV bike">
-  <img class="large-image" src="/assets/images/post_2_netherland_biking/OV bike station.png" title="OV bike">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/OV bike station.jpg" data-lightbox="day-1-image" data-title="OV bike">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/OV bike station.jpg" title="OV bike">
 </a>
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/2_ovbike.png" data-lightbox="day-1-image" data-title="OV bike">
-  <img class="large-image" src="/assets/images/post_2_netherland_biking/2_ovbike.png" title="OV bike">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/2_ovbike.jpg" data-lightbox="day-1-image" data-title="OV bike">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/2_ovbike.jpg" title="OV bike">
 
 To be honest I did underestimate the difficulty of biking and I did overestimate my ability to bike. The lesson that I learned the following day was: if you haven’t been biking for years, don’t plan an ambitious biking journey unless you want yourself injured and completely destroyed... As you may see from the photo above, these bikes are not equipped with hand breaks and they are heavy... I fell with my bike 30 minutes after biking because I went off track... Luckily I didn’t fall into the canal and only got bruises in my arms and my knees. I continued biking of course. 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes1.png" data-lightbox="day-1-image" data-title="tulipe field">
-  <img class="large-image" src="/assets/images/post_2_netherland_biking/tulipes1.png" title="tulipe field">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes1.jpg" data-lightbox="day-1-image" data-title="tulipe field">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/tulipes1.jpg" title="tulipe field">
 </a>
 
 10 minutes after falling with the bike I saw this. My feelings were quite complex. And after this more flower fields of course. The weather was very good, which made the colors more vivid.
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes2.png" data-lightbox="day-1-image" data-title="tulipe field">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes2.png" title="tulipe field">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes2.jpg" data-lightbox="day-1-image" data-title="tulipe field">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes2.jpg" title="tulipe field">
 </a>
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes3.png" data-lightbox="day-1-image" data-title="tulipe field">
-  <img class="medium-image"  src="/assets/images/post_2_netherland_biking/tulipes3.png" title="tulipe field">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes3.jpg" data-lightbox="day-1-image" data-title="tulipe field">
+  <img class="medium-image"  src="/assets/images/post_2_netherland_biking/tulipes3.jpg" title="tulipe field">
 </a>
 
 I might have forgotten my pain at some point. We stopped at this place for a brief lunch:
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/lunchtulipes4.png" data-lightbox="day-1-image" data-title="lunch break">
-  <img class="large-image"  src="/assets/images/post_2_netherland_biking/lunchtulipes4.png" title="lunch break">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/lunchtulipes4.jpg" data-lightbox="day-1-image" data-title="lunch break">
+  <img class="large-image"  src="/assets/images/post_2_netherland_biking/lunchtulipes4.jpg" title="lunch break">
 </a>
 
 Then we continued to our helicopter!
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/helicopter.png" data-lightbox="day-1-image" data-title="helicopter">
-  <img class="large-image" src="/assets/images/post_2_netherland_biking/helicopter.png" title="helicopter">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/helicopter.jpg" data-lightbox="day-1-image" data-title="helicopter">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/helicopter.jpg" title="helicopter">
 </a>
 
 Yes, this was our accommodation. We slept in this British helicopter during the night and the following day we arrived at London (kidding). This was on the camping ground called ‘Camping Land from Sea’. A crazy place where you could sleep in the bus, in a tree house, in a tram... and of course in this helicopter. We were told that usually people who booked accommodation arrived by car and that we were the first that arrived by bike.
 
 When we were searching for accommodation for this trip and comparing the prices of different hotels, we found this camping ground by accident. To our surprise, the price of one night in this helicopter was about 100 euros for 2 people, lower than the average price of one night’s hotel in this region. There was everything you needed to spend the night in the helicopter : blankets, pillows, sheet, radiator and you also had a table, two chairs and some kitchen kits at the entrance to the helicopter. The only inconvenience was that the public restroom and the bathroom were a little bit far from it.
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/cat_in_helicopter.png" data-lightbox="day-1-image" data-title="guest">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/cat_in_helicopter.png" title="guest">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/cat_in_helicopter.jpg" data-lightbox="day-1-image" data-title="guest">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/cat_in_helicopter.jpg" title="guest">
 </a>
 
 Our guest: the camping cat. A very friendly cat. Camping cat is actually it’s name. It refused to leave the helicopter and the chair warmed up by the sun. It was really comfortable, wasn’t it?
@@ -71,19 +71,19 @@ After many failed efforts we managed to throw the camping cat out of the helicop
 
 About one month before the trip when I was searching for the possible destinations in the Netherlands,  I noticed this photo: 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam_satelite.png" data-lightbox="day-1-image" data-title="the dam">
-  <img class="large-image" src="/assets/images/post_2_netherland_biking/dam_satelite.png" title="the dam">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam_satelite.jpg" data-lightbox="day-1-image" data-title="the dam">
+  <img class="large-image" src="/assets/images/post_2_netherland_biking/dam_satelite.jpg" title="the dam">
 </a>
 
 It’s a satellite image of Afsluitdijk dam. It’s 32kms long, located in the northern Netherlands, a  magnificent human construction to separate the sea from the river delta area.
 
 I was fascinated by this astonishing colorful landscape and decided to go there. And indeed we arrived at the dam by bike around 5pm that day. 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam1.png" data-lightbox="day-1-image" data-title="the dam">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/dam1.png" title="the dam">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam1.jpg" data-lightbox="day-1-image" data-title="the dam">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/dam1.jpg" title="the dam">
 </a>
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam2.png" data-lightbox="day-1-image" data-title="the dam">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/dam2.png" title="the dam">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/dam2.jpg" data-lightbox="day-1-image" data-title="the dam">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/dam2.jpg" title="the dam">
 </a>
 
 Honestly, comparing to the feeling when I saw the satellite image, I’m quite disappointed after we actually reached this dam. Mostly because that we couldn’t get on the dam because due to construction works the access was blocked. And of course also because that after 4 hours biking against the wind, I was exhausted. Before the trip I was planning to do a bike tour from the camping ground over the 32 km long dam and back to the camping ground. This appeared to me like the stupidest idea ever after I arrived at the dam with my destroyed body. 
@@ -94,23 +94,23 @@ After a brief stop and some snacks, we decided to bike back to our helicopter.
 
 Pictures on the way from the camping ground to the dam: 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes4.png" data-lightbox="day-1-image" data-title="tulipe field">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes4.png" title="tulipe field">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes4.jpg" data-lightbox="day-1-image" data-title="tulipe field">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes4.jpg" title="tulipe field">
 </a>
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/birds1.png" data-lightbox="day-1-image" data-title="baby birds">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/birds1.png" title="baby birds">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/birds1.jpg" data-lightbox="day-1-image" data-title="baby birds">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/birds1.jpg" title="baby birds">
 </a>
 
 Pictures on the way back from the dam back to the camping ground: 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/sheep1.png" data-lightbox="day-1-image" data-title="sheep">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/sheep1.png" title="sheep">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/sheep1.jpg" data-lightbox="day-1-image" data-title="sheep">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/sheep1.jpg" title="sheep">
 </a>
 
 The way back the following day we were biking with a tailwind for which I was grateful. 
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/pizza.png" data-lightbox="day-1-image" data-title="pizza">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/pizza.png" title="pizza">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/pizza.jpg" data-lightbox="day-1-image" data-title="pizza">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/pizza.jpg" title="pizza">
 </a>
 
 We were told that we could buy sandwiches at the camping ground, but when we were back, it was sort of late and the sandwiches were no longer available. We ended up having a dinner at a local restaurant about 10 minutes on foot from the camping ground. Usually I have a bad appetite when I am tired and my friend is an opposite: he eats like a horse after hiking. Anyway, the pizzas were ok and large and we saved the rest of them for the breakfast on the next day.
@@ -121,8 +121,8 @@ As the weather forecast predicted, the second day was another sunny day. We took
 
 We took a different path and thanks to the tailwind, it took us less than 2 hours biking and we made to the train station before noon. Here is a nice tulip field on our way back:
 
-<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes5.png" data-lightbox="day-2-image" data-title="tulipes">
-  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes5.png" title="tulipes">
+<a class="image-link" href="//easyoutdoor.github.io/assets/images/post_2_netherland_biking/tulipes5.jpg" data-lightbox="day-2-image" data-title="tulipes">
+  <img class="medium-image" src="/assets/images/post_2_netherland_biking/tulipes5.jpg" title="tulipes">
 </a>
 
 
