@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easter 2019 in the Netherlands: in detail"
+title:  "Easter 2019 in the Netherlands"
 date:   2019-05-18 18:24:00 +0200
 categories: 
 cover: /assets/images/IMG_1389.JPG
